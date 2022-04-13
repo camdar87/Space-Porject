@@ -9,6 +9,11 @@ git commit -m "usefull commit message"
 git push --set upstream origin <branch>
 ```
 
+## Link to project kanban.
+```md
+https://github.com/camdar87/Space-Porject/projects/1
+```
+
 ## if you have any issue just br
 
 # Space-Porject
