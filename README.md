@@ -14,6 +14,7 @@ git push --set upstream origin <branch>
 https://github.com/camdar87/Space-Porject/projects/1
 ```
 
-## if you have any issue just bring it up in teams chat.
+## Need help.
+jurst bring it up in teams chat.
 
 # Space-Porject
