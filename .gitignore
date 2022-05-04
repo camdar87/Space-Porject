@@ -46,7 +46,7 @@ SourceArt/**/*.png
 SourceArt/**/*.tga
 
 # Binary Files
-Binaries/*
+*/Binaries/*
 Plugins/*/Binaries/*
 
 # Builds
@@ -74,8 +74,8 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 
 # Ignore folders
-/Debug/
-/Intermediate/
-/Saved/
-/Collections/
-/Developers/
+*/Debug/
+*/Intermediate/
+*/Saved/
+*/Collections/
+*/Developers/
