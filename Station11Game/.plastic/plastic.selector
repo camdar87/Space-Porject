@@ -1,4 +1,4 @@
 repository "Station11Game@Station11@cloud"
   path "/"
-    smartbranch "/main/BIT version" 
+    smartbranch "/main"                 
      
