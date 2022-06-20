@@ -11317,3 +11317,372 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.06.19-13.14.18:674][214]LogSavePackage: Moving '../../../../../Polytech Work/Year-3/Game dev/Space-Porject/Station11Game/Station_11_BIT/Saved/GameHudBD04850D48A47C1D9213BEB5B74E70A8.tmp' to '../../../../../Polytech Work/Year-3/Game dev/Space-Porject/Station11Game/Station_11_BIT/Content/UI/UMG/GameHud.uasset'
 [2022.06.19-13.14.18:685][214]AssetCheck: New page: Asset Save: GameHud
 [2022.06.19-13.14.18:685][214]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/UMG/GameHud.GameHud
+[2022.06.19-22.52.56:659][962]LogSlate: Window 'GameHud' being destroyed
+[2022.06.19-22.52.56:664][962]LogSlate: Window 'GameHud' being destroyed
+[2022.06.19-22.52.56:667][962]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2022.06.19-22.52.56:667][962]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.19-22.52.56:675][962]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2022.06.19-22.52.56:675][962]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.19-22.52.57:582][ 59]LogTemp: Repeating last play command: Selected Viewport
+[2022.06.19-22.52.57:587][ 59]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.19-22.52.57:587][ 59]PIE: New page: PIE session: ThirdPersonExampleMap (20/06/2022, 10:52:57 pm)
+[2022.06.19-22.52.57:625][ 59]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.06.19-22.52.57:642][ 59]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016396s)
+[2022.06.19-22.52.57:642][ 59]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.06.19-22.52.57:643][ 59]LogPlayLevel: PIE: World Init took: (0.000952s)
+[2022.06.19-22.52.57:643][ 59]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.017494s)
+[2022.06.19-22.52.57:674][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2022.06.19-22.52.57:677][ 59]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2022.06.19-22.52.57:677][ 59]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.19-22.52.57:677][ 59]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.19-22.52.57:677][ 59]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.19-22.52.57:677][ 59]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.19-22.52.57:677][ 59]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.19-22.52.57:677][ 59]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.19-22.52.57:677][ 59]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.19-22.52.57:677][ 59]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.19-22.52.57:677][ 59]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.19-22.52.57:677][ 59]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.19-22.52.57:677][ 59]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.19-22.52.57:677][ 59]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.19-22.52.57:682][ 59]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.19-22.52.57:682][ 59]LogAudioMixer: Display: 1: FrontRight
+[2022.06.19-22.52.57:682][ 59]LogAudioMixer: Display: 2: FrontCenter
+[2022.06.19-22.52.57:682][ 59]LogAudioMixer: Display: 3: LowFrequency
+[2022.06.19-22.52.57:682][ 59]LogAudioMixer: Display: 4: BackLeft
+[2022.06.19-22.52.57:682][ 59]LogAudioMixer: Display: 5: BackRight
+[2022.06.19-22.52.57:682][ 59]LogAudioMixer: Display: 6: SideLeft
+[2022.06.19-22.52.57:682][ 59]LogAudioMixer: Display: 7: SideRight
+[2022.06.19-22.52.57:714][ 59]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.06.19-22.52.57:714][ 59]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.19-22.52.57:714][ 59]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.19-22.52.57:714][ 59]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.19-22.52.57:715][ 59]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.19-22.52.57:715][ 59]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.19-22.52.57:715][ 59]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.06.19-22.52.57:716][ 59]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.19-22.52.57:716][ 59]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.19-22.52.57:716][ 59]LogInit: FAudioDevice initialized.
+[2022.06.19-22.52.57:716][ 59]LogAudio: Display: Audio Device (ID: 12) registered with world 'ThirdPersonExampleMap'.
+[2022.06.19-22.52.57:726][ 59]LogLoad: Game class is 'None_Gamemode_C'
+[2022.06.19-22.52.57:729][ 59]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.06.20-10.52.57
+[2022.06.19-22.52.57:729][ 59]LogWorld: Bringing up level for play took: 0.002566
+[2022.06.19-22.52.57:729][ 59]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2022.06.19-22.52.57:731][ 59]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.06.19-22.52.57:731][ 59]LogVoiceEncode: Display: EncoderVersion: libopus unknown
+[2022.06.19-22.52.57:731][ 59]LogOnlineVoice: OSS: StopLocalVoiceProcessing(0) returned 0xFFFFFFFF
+[2022.06.19-22.52.57:731][ 59]LogOnlineVoice: OSS: Stopping networked voice for user: 0
+[2022.06.19-22.52.57:731][ 59]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2022.06.19-22.52.57:731][ 59]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2022.06.19-22.52.57:731][ 59]LogNet: PktLagMin set to 0
+[2022.06.19-22.52.57:731][ 59]LogNet: PktLagMax set to 0
+[2022.06.19-22.52.57:731][ 59]LogNet: PktLoss set to 0
+[2022.06.19-22.52.57:731][ 59]LogNet: PktIncomingLagMin set to 0
+[2022.06.19-22.52.57:731][ 59]LogNet: PktIncomingLagMax set to 0
+[2022.06.19-22.52.57:731][ 59]LogNet: PktIncomingLoss set to 0
+[2022.06.19-22.52.57:731][ 59]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2022.06.19-22.52.57:731][ 59]LogNet: Created socket for bind address: 0.0.0.0 on port 17777
+[2022.06.19-22.52.57:732][ 59]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.06.19-22.52.57:732][ 59]LogNet: GameNetDriver IpNetDriver_10 IpNetDriver listening on port 17777
+[2022.06.19-22.52.57:987][ 59]PIE: Server logged in
+[2022.06.19-22.52.57:988][ 59]PIE: Play in editor total start time 0.402 seconds.
+[2022.06.19-22.52.57:989][ 59]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2022.06.19-22.52.57:989][ 59]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.19-22.52.57:989][ 59]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.19-22.52.57:989][ 59]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.19-22.52.57:989][ 59]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.19-22.52.57:989][ 59]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.19-22.52.57:989][ 59]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.19-22.52.57:989][ 59]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.19-22.52.57:989][ 59]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.19-22.52.57:990][ 59]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.19-22.52.57:990][ 59]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.19-22.52.57:990][ 59]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.19-22.52.57:990][ 59]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.19-22.52.57:994][ 59]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.19-22.52.57:994][ 59]LogAudioMixer: Display: 1: FrontRight
+[2022.06.19-22.52.57:994][ 59]LogAudioMixer: Display: 2: FrontCenter
+[2022.06.19-22.52.57:994][ 59]LogAudioMixer: Display: 3: LowFrequency
+[2022.06.19-22.52.57:994][ 59]LogAudioMixer: Display: 4: BackLeft
+[2022.06.19-22.52.57:994][ 59]LogAudioMixer: Display: 5: BackRight
+[2022.06.19-22.52.57:994][ 59]LogAudioMixer: Display: 6: SideLeft
+[2022.06.19-22.52.57:994][ 59]LogAudioMixer: Display: 7: SideRight
+[2022.06.19-22.52.58:023][ 59]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.06.19-22.52.58:024][ 59]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.19-22.52.58:024][ 59]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.19-22.52.58:024][ 59]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.19-22.52.58:025][ 59]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.19-22.52.58:025][ 59]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.19-22.52.58:025][ 59]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.06.19-22.52.58:026][ 59]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.19-22.52.58:026][ 59]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.19-22.52.58:026][ 59]LogInit: FAudioDevice initialized.
+[2022.06.19-22.52.58:026][ 59]LogAudio: Display: Audio Device (ID: 13) registered with world 'Untitled'.
+[2022.06.19-22.52.58:060][ 59]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.19-22.52.58:060][ 59]LogNet: Browse: 127.0.0.1:17777/Game/Maps/S11_MainMenu
+[2022.06.19-22.52.58:060][ 59]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2022.06.19-22.52.58:060][ 59]LogNet: Created socket for bind address: 0.0.0.0 on port 0
+[2022.06.19-22.52.58:061][ 59]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.06.19-22.52.58:061][ 59]LogNet: Game client on port 17777, rate 100000
+[2022.06.19-22.52.58:063][ 59]PIE: Client logged in
+[2022.06.19-22.52.58:064][ 59]PIE: Play in editor total start time 0.478 seconds.
+[2022.06.19-22.52.59:084][177]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:63940
+[2022.06.19-22.52.59:084][177]LogHandshake: SendConnectChallenge. Timestamp: 1.510332, Cookie: 111043129058005195014091090080131053238099154234213237235113
+[2022.06.19-22.52.59:085][177]LogHandshake: SendChallengeResponse. Timestamp: 1.510332, Cookie: 111043129058005195014091090080131053238099154234213237235113
+[2022.06.19-22.52.59:093][178]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:63940
+[2022.06.19-22.52.59:093][178]LogHandshake: SendChallengeAck. InCookie: 111043129058005195014091090080131053238099154234213237235113
+[2022.06.19-22.52.59:093][178]LogNet: Server accepting post-challenge connection from: 127.0.0.1:63940
+[2022.06.19-22.52.59:093][178]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.06.19-22.52.59:093][178]LogNet: NotifyAcceptedConnection: Name: ThirdPersonExampleMap, TimeStamp: 06/20/22 10:52:59, [UNetConnection] RemoteAddr: 127.0.0.1:63940, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_10, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.06.19-22.52.59:093][178]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:63940, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_10, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.06.19-22.52.59:094][178]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_10, Driver: PendingNetDriver IpNetDriver_11, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.06.19-22.52.59:101][179]LogNet: NotifyAcceptingChannel Control 0 server World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap: Accepted
+[2022.06.19-22.52.59:101][179]LogNet: Remote platform little endian=1
+[2022.06.19-22.52.59:101][179]LogNet: This platform little endian=1
+[2022.06.19-22.52.59:102][179]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2022.06.19-22.52.59:109][180]LogNet: Login request: ?Name=Hayden-PC-91EA8EBF480926BE4FE1ACB50B1D7712 userId: NULL:Hayden-PC-91EA8EBF480926BE4FE1ACB50B1D7712 platform: NULL
+[2022.06.19-22.52.59:110][180]LogNet: Welcomed by server (Level: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap, Game: /Game/ThirdPersonBP/Blueprints/None_Gamemode.None_Gamemode_C)
+[2022.06.19-22.52.59:110][180]LogLoad: LoadMap: 127.0.0.1:17777/Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap?game=/Game/ThirdPersonBP/Blueprints/None_Gamemode.None_Gamemode_C
+[2022.06.19-22.52.59:110][180]LogWorld: BeginTearingDown for /Temp/Untitled_6
+[2022.06.19-22.52.59:110][180]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.06.19-22.52.59:110][180]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.19-22.52.59:124][180]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.19-22.52.59:126][180]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2022.06.19-22.52.59:137][180]LogAudio: Display: Audio Device (ID: 13) registered with world 'ThirdPersonExampleMap'.
+[2022.06.19-22.52.59:138][180]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.06.19-22.52.59:140][180]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2022.06.20-10.52.59
+[2022.06.19-22.52.59:140][180]LogWorld: Bringing up level for play took: 0.001620
+[2022.06.19-22.52.59:140][180]LogLoad: Took 0.031210 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap)
+[2022.06.19-22.52.59:140][180]LogNavigation: Warning: NavData RegistrationFailed_DataPendingKill.
+[2022.06.19-22.52.59:141][180]LogVoiceEncode: Display: EncoderVersion: libopus unknown
+[2022.06.19-22.52.59:305][181]LogNet: Client netspeed is 100000
+[2022.06.19-22.52.59:305][181]LogNet: Join request: /Game/Maps/S11_MainMenu?Name=Hayden-PC-91EA8EBF480926BE4FE1ACB50B1D7712?SplitscreenCount=1
+[2022.06.19-22.52.59:306][181]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2022.06.19-22.52.59:306][181]LogNet: Join succeeded: Hayden-PC-91EA8EBF48
+[2022.06.19-22.52.59:307][181]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.06.19-22.52.59:307][181]LogOnlineVoice: OSS: StopLocalVoiceProcessing(0) returned 0xFFFFFFFF
+[2022.06.19-22.52.59:307][181]LogOnlineVoice: OSS: Stopping networked voice for user: 0
+[2022.06.19-22.52.59:339][185]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2022.06.19-22.52.59:339][185]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2022.06.19-22.53.04:936][848]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.19-22.53.04:936][848]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap
+[2022.06.19-22.53.04:936][848]LogSlate: Window 'Station_11 Preview [NetMode: Client 1]  (64-bit/Windows) ' being destroyed
+[2022.06.19-22.53.04:939][848]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.06.19-22.53.04:939][848]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.19-22.53.04:946][848]LogNet: World NetDriver shutdown IpNetDriver_11 [GameNetDriver]
+[2022.06.19-22.53.04:946][848]LogNet: DestroyNamedNetDriver IpNetDriver_11 [GameNetDriver]
+[2022.06.19-22.53.04:946][848]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_10, Driver: GameNetDriver IpNetDriver_11, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:Hayden-PC-91EA8EBF480926BE4FE1ACB50B1D7712, Channels: 11, Time: 2022.06.19-22.53.04
+[2022.06.19-22.53.04:946][848]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_10, Driver: GameNetDriver IpNetDriver_11, IsServer: NO, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:Hayden-PC-91EA8EBF480926BE4FE1ACB50B1D7712
+[2022.06.19-22.53.04:946][848]LogExit: GameNetDriver IpNetDriver_11 shut down
+[2022.06.19-22.53.04:947][848]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.06.19-22.53.04:947][848]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2022.06.19-22.53.04:947][848]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.19-22.53.04:947][848]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.06.19-22.53.04:948][848]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.19-22.53.04:956][848]LogNet: World NetDriver shutdown IpNetDriver_10 [GameNetDriver]
+[2022.06.19-22.53.04:956][848]LogNet: DestroyNamedNetDriver IpNetDriver_10 [GameNetDriver]
+[2022.06.19-22.53.04:956][848]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:63940, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_10, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:Hayden-PC-91EA8EBF480926BE4FE1ACB50B1D7712
+[2022.06.19-22.53.04:956][848]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:63940, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_10, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:Hayden-PC-91EA8EBF480926BE4FE1ACB50B1D7712, Channels: 11, Time: 2022.06.19-22.53.04
+[2022.06.19-22.53.04:956][848]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:63940, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_10, IsServer: YES, PC: PlayerController_1, Owner: PlayerController_1, UniqueId: NULL:Hayden-PC-91EA8EBF480926BE4FE1ACB50B1D7712
+[2022.06.19-22.53.04:957][848]LogExit: GameNetDriver IpNetDriver_10 shut down
+[2022.06.19-22.53.04:957][848]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.19-22.53.04:965][848]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.19-22.53.04:981][848]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.19-22.53.04:981][848]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.19-22.53.04:982][848]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.19-22.53.05:003][848]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.19-22.53.05:003][848]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.19-22.53.05:004][848]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.19-22.53.05:013][848]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2022.06.19-22.53.05:044][849]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2022.06.19-22.53.05:044][849]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2022.06.19-22.53.14:741][998]Cmd: SELECT NONE
+[2022.06.19-22.53.16:244][173]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/UMG/GameHud.GameHud
+[2022.06.19-22.54.19:170][549]BlueprintLog: New page: Compile GameHud
+[2022.06.19-22.54.19:198][549]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2022.06.19-22.54.41:206][608]BlueprintLog: New page: Compile GameHud
+[2022.06.19-22.54.41:233][608]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2022.06.19-22.57.34:789][810]LogSlate: Window 'Color Picker' being destroyed
+[2022.06.19-22.57.45:672][ 78]BlueprintLog: New page: Compile GameHud
+[2022.06.19-22.57.45:700][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2022.06.19-22.58.35:802][854]BlueprintLog: New page: Compile GameHud
+[2022.06.19-22.58.35:829][854]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2022.06.19-22.58.52:694][541]BlueprintLog: New page: Compile GameHud
+[2022.06.19-22.58.52:720][541]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2022.06.19-22.59.54:640][877]BlueprintLog: New page: Compile GameHud
+[2022.06.19-22.59.54:667][877]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2022.06.19-23.00.23:853][312]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UMG/GameHud" FILE="../../../../../Polytech Work/Year-3/Game dev/Space-Porject/Station11Game/Station_11_BIT/Content/UI/UMG/GameHud.uasset" SILENT=true
+[2022.06.19-23.00.23:863][312]LogSavePackage: Moving '../../../../../Polytech Work/Year-3/Game dev/Space-Porject/Station11Game/Station_11_BIT/Saved/GameHudD5E5C30942ABB30656F3F1986DC44990.tmp' to '../../../../../Polytech Work/Year-3/Game dev/Space-Porject/Station11Game/Station_11_BIT/Content/UI/UMG/GameHud.uasset'
+[2022.06.19-23.00.23:875][312]AssetCheck: New page: Asset Save: GameHud
+[2022.06.19-23.00.23:875][312]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/UMG/GameHud.GameHud
+[2022.06.19-23.00.26:077][562]LogSlate: Window 'GameHud' being destroyed
+[2022.06.19-23.00.26:115][562]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2022.06.19-23.00.26:115][562]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.19-23.00.26:121][562]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2022.06.19-23.00.26:121][562]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.19-23.00.27:992][775]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2022.06.19-23.00.29:253][924]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/UMG/GameHud.GameHud
+[2022.06.19-23.06.36:106][349]BlueprintLog: New page: Compile GameHud
+[2022.06.19-23.06.36:138][349]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2022.06.19-23.07.30:242][704]LogEditorTransaction: Undo Move Nodes
+[2022.06.19-23.07.42:085][ 53]BlueprintLog: New page: Compile GameHud
+[2022.06.19-23.07.42:175][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2022.06.19-23.08.00:304][191]BlueprintLog: New page: Compile GameHud
+[2022.06.19-23.08.00:334][191]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2022.06.19-23.10.20:293][875]BlueprintLog: New page: Compile GameHud
+[2022.06.19-23.10.20:326][875]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2022.06.19-23.10.25:213][441]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2022.06.19-23.10.25:213][441]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.021
+[2022.06.19-23.10.25:214][441]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/UMG/GameHud] ([2] browsable assets)...
+[2022.06.19-23.10.25:214][441]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UMG/GameHud]
+[2022.06.19-23.10.25:235][441]LogSavePackage: Moving '../../../../../Polytech Work/Year-3/Game dev/Space-Porject/Station11Game/Station_11_BIT/Saved/GameHud_Auto210A8F4D042CA444EA1BFC6B44A7FEFB2.tmp' to '../../../../../Polytech Work/Year-3/Game dev/Space-Porject/Station11Game/Station_11_BIT/Saved/Autosaves/Game/UI/UMG/GameHud_Auto2.uasset'
+[2022.06.19-23.10.25:235][441]LogFileHelpers: Auto-saving content packages took 0.022
+[2022.06.19-23.12.42:126][696]BlueprintLog: New page: Compile GameHud
+[2022.06.19-23.12.42:159][696]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2022.06.19-23.12.50:491][681]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.06.19-23.12.50:512][681]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.06.19-23.12.55:551][267]BlueprintLog: New page: Compile GameHud
+[2022.06.19-23.12.55:584][267]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2022.06.19-23.14.55:473][528]BlueprintLog: New page: Compile GameHud
+[2022.06.19-23.14.55:508][528]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2022.06.19-23.16.57:574][149]BlueprintLog: New page: Compile GameHud
+[2022.06.19-23.16.57:610][149]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2022.06.19-23.17.22:078][770]BlueprintLog: New page: Compile GameHud
+[2022.06.19-23.17.22:114][770]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2022.06.19-23.17.49:230][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UMG/GameHud" FILE="../../../../../Polytech Work/Year-3/Game dev/Space-Porject/Station11Game/Station_11_BIT/Content/UI/UMG/GameHud.uasset" SILENT=true
+[2022.06.19-23.17.49:258][927]LogSavePackage: Moving '../../../../../Polytech Work/Year-3/Game dev/Space-Porject/Station11Game/Station_11_BIT/Saved/GameHud80AC3E3C4D0464DD1B5B9A98AD438FF6.tmp' to '../../../../../Polytech Work/Year-3/Game dev/Space-Porject/Station11Game/Station_11_BIT/Content/UI/UMG/GameHud.uasset'
+[2022.06.19-23.17.49:270][927]AssetCheck: New page: Asset Save: GameHud
+[2022.06.19-23.17.49:270][927]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/UMG/GameHud.GameHud
+[2022.06.19-23.17.51:577][194]LogSlate: Window 'GameHud' being destroyed
+[2022.06.19-23.17.51:582][194]LogSlate: Window 'GameHud' being destroyed
+[2022.06.19-23.17.51:625][194]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2022.06.19-23.17.51:625][194]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.19-23.17.51:633][194]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2022.06.19-23.17.51:633][194]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.19-23.17.53:753][438]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2022.06.19-23.18.01:898][405]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/UMG/PickupText.PickupText
+[2022.06.19-23.19.05:631][878]BlueprintLog: New page: Compile PickupText
+[2022.06.19-23.19.05:655][878]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2022.06.19-23.19.43:740][343]BlueprintLog: New page: Compile PickupText
+[2022.06.19-23.19.43:766][343]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2022.06.19-23.19.53:967][550]LogEditorTransaction: Undo Change Parameter Type
+[2022.06.19-23.19.56:243][775]LogEditorTransaction: Undo Rename Variable
+[2022.06.19-23.19.56:932][855]LogEditorTransaction: Undo Add Variable
+[2022.06.19-23.19.57:322][900]LogEditorTransaction: Undo Delete current selection
+[2022.06.19-23.20.52:778][124]BlueprintLog: New page: Compile PickupText
+[2022.06.19-23.20.52:802][124]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2022.06.19-23.22.56:238][ 98]BlueprintLog: New page: Compile PickupText
+[2022.06.19-23.22.56:265][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2022.06.19-23.22.59:432][448]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UMG/PickupText" FILE="../../../../../Polytech Work/Year-3/Game dev/Space-Porject/Station11Game/Station_11_BIT/Content/UI/UMG/PickupText.uasset" SILENT=true
+[2022.06.19-23.22.59:438][448]LogSavePackage: Moving '../../../../../Polytech Work/Year-3/Game dev/Space-Porject/Station11Game/Station_11_BIT/Saved/PickupText6F0C87F6426D43CB4304059E84B1C54D.tmp' to '../../../../../Polytech Work/Year-3/Game dev/Space-Porject/Station11Game/Station_11_BIT/Content/UI/UMG/PickupText.uasset'
+[2022.06.19-23.22.59:448][448]AssetCheck: New page: Asset Save: PickupText
+[2022.06.19-23.22.59:448][448]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/UMG/PickupText.PickupText
+[2022.06.19-23.23.00:473][564]LogSlate: Window 'PickupText' being destroyed
+[2022.06.19-23.23.00:478][564]LogSlate: Window 'PickupText' being destroyed
+[2022.06.19-23.23.00:505][564]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2022.06.19-23.23.00:505][564]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.19-23.23.00:512][564]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2022.06.19-23.23.00:513][564]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.19-23.23.16:063][387]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.06.19-23.23.16:066][387]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.06.19-23.23.19:542][387]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.06.19-23.23.19:548][387]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.06.19-23.23.19:560][387]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.06.19-23.23.26:893][267]LogContentBrowser: Attempting asset rename: NewBlueprint -> BasePickup
+[2022.06.19-23.23.26:896][267]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.06.19-23.23.37:630][555]LogContentBrowser: Attempting asset rename: BasePickup -> PickupTemplate
+[2022.06.19-23.23.37:648][555]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/PickupTemplate.PickupTemplate:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/ThirdPersonBP/Blueprints/BasePickup.PackageMetaData'
+[2022.06.19-23.23.37:648][555]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/PickupTemplate.SKEL_PickupTemplate_C:UserConstructionScript' ref from Metadata '/Game/ThirdPersonBP/Blueprints/BasePickup.PackageMetaData'
+[2022.06.19-23.23.37:648][555]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/PickupTemplate.SKEL_PickupTemplate_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/BasePickup.PackageMetaData'
+[2022.06.19-23.23.37:648][555]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/PickupTemplate.PickupTemplate_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/BasePickup.PackageMetaData'
+[2022.06.19-23.23.37:648][555]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/PickupTemplate.PickupTemplate:EventGraph.K2Node_Event_0' ref from Metadata '/Game/ThirdPersonBP/Blueprints/BasePickup.PackageMetaData'
+[2022.06.19-23.23.37:648][555]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/PickupTemplate.PickupTemplate:EventGraph.K2Node_Event_1' ref from Metadata '/Game/ThirdPersonBP/Blueprints/BasePickup.PackageMetaData'
+[2022.06.19-23.23.37:648][555]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/PickupTemplate.PickupTemplate:EventGraph.K2Node_Event_2' ref from Metadata '/Game/ThirdPersonBP/Blueprints/BasePickup.PackageMetaData'
+[2022.06.19-23.23.37:702][555]LogSavePackage: Moving '../../../../../Polytech Work/Year-3/Game dev/Space-Porject/Station11Game/Station_11_BIT/Saved/PickupTemplate30A0498946D45248B654D5907D78F45F.tmp' to '../../../../../Polytech Work/Year-3/Game dev/Space-Porject/Station11Game/Station_11_BIT/Content/ThirdPersonBP/Blueprints/PickupTemplate.uasset'
+[2022.06.19-23.23.37:768][555]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2022.06.19-23.23.37:793][555]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2022.06.19-23.23.37:808][555]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.06.19-23.23.37:847][555]AssetCheck: New page: Asset Save: PickupTemplate
+[2022.06.19-23.23.37:847][555]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/PickupTemplate.PickupTemplate
+[2022.06.19-23.23.43:732][246]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/PickupTemplate.PickupTemplate
+[2022.06.19-23.24.57:568][282]LogStaticMesh: Building static mesh ID_Card...
+[2022.06.19-23.24.57:594][282]LogStaticMesh: Built static mesh [0.03s] /Game/Models/Megs_Models/ID_Card/ID_Card.ID_Card
+[2022.06.19-23.25.56:130][935]BlueprintLog: New page: Compile PickupTemplate
+[2022.06.19-23.25.56:218][935]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2022.06.19-23.26.24:016][ 59]BlueprintLog: New page: Compile PickupTemplate
+[2022.06.19-23.26.24:069][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2022.06.19-23.26.24:423][ 92]LogSavePackage: Moving '../../../../../Polytech Work/Year-3/Game dev/Space-Porject/Station11Game/Station_11_BIT/Saved/PickupTemplateB86B563E4040C2025C338FBEB03232C8.tmp' to '../../../../../Polytech Work/Year-3/Game dev/Space-Porject/Station11Game/Station_11_BIT/Content/ThirdPersonBP/Blueprints/PickupTemplate.uasset'
+[2022.06.19-23.26.24:464][ 92]AssetCheck: New page: Asset Save: PickupTemplate
+[2022.06.19-23.26.24:464][ 92]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/PickupTemplate.PickupTemplate
+[2022.06.19-23.26.25:489][210]LogSlate: Window 'PickupTemplate' being destroyed
+[2022.06.19-23.26.25:493][210]LogSlate: Window 'PickupTemplate' being destroyed
+[2022.06.19-23.26.25:497][210]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2022.06.19-23.26.25:497][210]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.19-23.27.42:954][186]LogContentBrowser: Attempting asset rename: PickupTemplate -> KeycardPickup
+[2022.06.19-23.27.42:978][186]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/KeycardPickup.KeycardPickup_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/PickupTemplate.PackageMetaData'
+[2022.06.19-23.27.42:978][186]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/KeycardPickup.SKEL_KeycardPickup_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/PickupTemplate.PackageMetaData'
+[2022.06.19-23.27.42:978][186]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/KeycardPickup.KeycardPickup:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/ThirdPersonBP/Blueprints/PickupTemplate.PackageMetaData'
+[2022.06.19-23.27.42:978][186]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/KeycardPickup.KeycardPickup:EventGraph.K2Node_Event_0' ref from Metadata '/Game/ThirdPersonBP/Blueprints/PickupTemplate.PackageMetaData'
+[2022.06.19-23.27.42:978][186]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/KeycardPickup.KeycardPickup:EventGraph.K2Node_Event_1' ref from Metadata '/Game/ThirdPersonBP/Blueprints/PickupTemplate.PackageMetaData'
+[2022.06.19-23.27.42:978][186]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/KeycardPickup.KeycardPickup:EventGraph.K2Node_Event_2' ref from Metadata '/Game/ThirdPersonBP/Blueprints/PickupTemplate.PackageMetaData'
+[2022.06.19-23.27.42:978][186]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/KeycardPickup.SKEL_KeycardPickup_C:ReceiveBeginPlay' ref from Metadata '/Game/ThirdPersonBP/Blueprints/PickupTemplate.PackageMetaData'
+[2022.06.19-23.27.42:978][186]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/KeycardPickup.SKEL_KeycardPickup_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/ThirdPersonBP/Blueprints/PickupTemplate.PackageMetaData'
+[2022.06.19-23.27.42:978][186]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/KeycardPickup.SKEL_KeycardPickup_C:ReceiveTick' ref from Metadata '/Game/ThirdPersonBP/Blueprints/PickupTemplate.PackageMetaData'
+[2022.06.19-23.27.42:978][186]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/KeycardPickup.SKEL_KeycardPickup_C:UserConstructionScript' ref from Metadata '/Game/ThirdPersonBP/Blueprints/PickupTemplate.PackageMetaData'
+[2022.06.19-23.27.43:048][186]LogSavePackage: Moving '../../../../../Polytech Work/Year-3/Game dev/Space-Porject/Station11Game/Station_11_BIT/Saved/KeycardPickup75B7D819472F7C88D8F54A9E0B3E73CF.tmp' to '../../../../../Polytech Work/Year-3/Game dev/Space-Porject/Station11Game/Station_11_BIT/Content/ThirdPersonBP/Blueprints/KeycardPickup.uasset'
+[2022.06.19-23.27.43:215][186]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2022.06.19-23.27.43:273][186]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2022.06.19-23.27.43:287][186]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.06.19-23.27.43:316][186]AssetCheck: New page: Asset Save: KeycardPickup
+[2022.06.19-23.27.43:316][186]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/KeycardPickup.KeycardPickup
+[2022.06.19-23.27.46:798][283]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/KeycardPickup.KeycardPickup
+[2022.06.19-23.28.31:405][465]BlueprintLog: New page: Compile KeycardPickup
+[2022.06.19-23.28.31:433][465]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2022.06.19-23.29.14:708][361]BlueprintLog: New page: Compile KeycardPickup
+[2022.06.19-23.29.14:734][361]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2022.06.19-23.30.03:093][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2022.06.19-23.30.03:098][ 79]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.023
+[2022.06.19-23.30.03:099][ 79]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPersonBP/Blueprints/KeycardPickup] ([2] browsable assets)...
+[2022.06.19-23.30.03:106][ 79]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/KeycardPickup.KeycardPickup]
+[2022.06.19-23.30.03:106][ 79]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/KeycardPickup]
+[2022.06.19-23.30.03:112][ 79]LogSavePackage: Moving '../../../../../Polytech Work/Year-3/Game dev/Space-Porject/Station11Game/Station_11_BIT/Saved/KeycardPickup_Auto338C8212B4FC6901D3BE4848C4005F31E.tmp' to '../../../../../Polytech Work/Year-3/Game dev/Space-Porject/Station11Game/Station_11_BIT/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/KeycardPickup_Auto3.uasset'
+[2022.06.19-23.30.03:113][ 79]LogFileHelpers: Auto-saving content packages took 0.014
+[2022.06.19-23.30.11:043][ 18]BlueprintLog: New page: Compile KeycardPickup
+[2022.06.19-23.30.11:070][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2022.06.19-23.30.30:997][329]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.06.19-23.30.31:013][329]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.06.19-23.37.37:652][963]BlueprintLog: New page: Compile KeycardPickup
+[2022.06.19-23.37.37:682][963]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2022.06.19-23.37.53:628][844]BlueprintLog: New page: Compile KeycardPickup
+[2022.06.19-23.37.53:658][844]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2022.06.19-23.41.31:203][432]LogSlate: Window 'Delete Variable' being destroyed
+[2022.06.19-23.42.22:427][ 69]BlueprintLog: New page: Compile KeycardPickup
+[2022.06.19-23.42.22:460][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2022.06.19-23.44.42:827][ 72]BlueprintLog: New page: Compile KeycardPickup
+[2022.06.19-23.44.42:859][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2022.06.19-23.45.02:633][386]LogEditorTransaction: Undo Move Nodes
+[2022.06.19-23.45.23:385][669]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.06.19-23.45.23:402][669]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.06.19-23.45.27:060][ 84]BlueprintLog: New page: Compile KeycardPickup
+[2022.06.19-23.45.27:111][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2022.06.19-23.48.07:504][201]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2022.06.19-23.48.07:506][201]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.021
+[2022.06.19-23.48.07:507][201]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPersonBP/Blueprints/KeycardPickup] ([2] browsable assets)...
+[2022.06.19-23.48.07:515][201]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/KeycardPickup.KeycardPickup]
+[2022.06.19-23.48.07:515][201]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/KeycardPickup]
+[2022.06.19-23.48.07:533][201]LogSavePackage: Moving '../../../../../Polytech Work/Year-3/Game dev/Space-Porject/Station11Game/Station_11_BIT/Saved/KeycardPickup_Auto4A7D6AF6B4B11B0FEF1D4C98545029827.tmp' to '../../../../../Polytech Work/Year-3/Game dev/Space-Porject/Station11Game/Station_11_BIT/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/KeycardPickup_Auto4.uasset'
+[2022.06.19-23.48.07:533][201]LogFileHelpers: Auto-saving content packages took 0.027
+[2022.06.19-23.49.08:108][605]BlueprintLog: New page: Compile KeycardPickup
+[2022.06.19-23.49.08:140][605]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2022.06.19-23.49.08:978][691]LogSavePackage: Moving '../../../../../Polytech Work/Year-3/Game dev/Space-Porject/Station11Game/Station_11_BIT/Saved/KeycardPickup942255D0433D6203E8D905B2DBF8FED5.tmp' to '../../../../../Polytech Work/Year-3/Game dev/Space-Porject/Station11Game/Station_11_BIT/Content/ThirdPersonBP/Blueprints/KeycardPickup.uasset'
+[2022.06.19-23.49.08:989][691]AssetCheck: New page: Asset Save: KeycardPickup
+[2022.06.19-23.49.08:989][691]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/KeycardPickup.KeycardPickup
+[2022.06.19-23.49.27:376][179]LogSlate: Window 'KeycardPickup' being destroyed
+[2022.06.19-23.49.27:404][179]LogSlate: Window 'KeycardPickup' being destroyed
+[2022.06.19-23.49.27:409][179]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2022.06.19-23.49.27:409][179]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.19-23.58.58:475][411]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2022.06.19-23.58.58:508][411]LogSavePackage: Moving '../../../../../Polytech Work/Year-3/Game dev/Space-Porject/Station11Game/Station_11_BIT/Saved/ThirdPersonExampleMapCD292AF84F8E7D2B25808A9F5B2CAD9E.tmp' to '../../../../../Polytech Work/Year-3/Game dev/Space-Porject/Station11Game/Station_11_BIT/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.06.19-23.58.58:529][411]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2022.06.19-23.58.58:530][411]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.06.19-23.58.59:197][487]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
